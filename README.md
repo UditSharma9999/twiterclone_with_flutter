@@ -1,6 +1,6 @@
 # twiterclone_with_flutter
 
-Make a app like flutter 
+Make a app like twiter 
 <br>
 
 ## ➕ Features
